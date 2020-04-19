@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Favourites">Favourites</string>
+    <string name="Profile">Profile</string>
+    <string name="About_App">About App</string>
+    <string name="navigation_drawer">Navigation_Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app">About App</string>
+    <string name="cecelia_ahern">Cecelia Ahern</string>
+    <string name="p_s_i_love_you">P.S. I love You</string>
+    <string name="rs_900">Rs 900</string>
+    <string name="_4_5">4.5</string>
+    <string name="check_internet">Check Internet</string>
+    <string name="add_to_favourites">add_to_favourites</string>
+    <string name="helloWorld">Hello_World</string>
+    <string name="android_Ic">androidIc</string>
+    <string name="android_IC">android_ic</string>
+    <string name="rs_499">rs 499</string>
+    <string name="rs_450">Rs 499</string>
+    <string name="rs_599">Rs 599</string>
+</resources>
